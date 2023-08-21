@@ -4,8 +4,6 @@
 * Here are some light looks of the app.
 
 ##
-https://github.com/acheul/ministries-app-light-look/assets/72500819/14a5477a-b95a-408c-b258-0c8a93822fa1  
+https://github.com/acheul/ministries-app-light-look/assets/72500819/3949fa96-b99c-4d58-9782-f4913b26819c
 
-https://github.com/acheul/ministries-app-light-look/assets/72500819/3965353f-2a96-40c4-a1f3-3547a648bb28  
-
-https://github.com/acheul/ministries-app-light-look/assets/72500819/2c4ad449-e57a-4d1b-af9d-e75590d3d801
+https://github.com/acheul/ministries-app-light-look/assets/72500819/0ca0c20c-1b56-47b4-93f5-6f165decdb6c
